@@ -1,1 +1,1 @@
-# Text-recognition-in-images-using-easyOCR
+# Text-recognition-in-images
