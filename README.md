@@ -24,3 +24,11 @@ The option to upload an image for text detection.
 The ability to choose the language for text recognition.
 Displaying the detected text and their confidence levels.
 A button to initiate text detection and view the results.
+
+screenshot of UI
+![image](https://github.com/nitheesh1904/Text-recognition-in-images/assets/113526963/13839c51-f055-44fc-b7ab-243304dcf163)
+Screenshot of a test Image:
+![image](https://github.com/nitheesh1904/Text-recognition-in-images/assets/113526963/1fa24145-b163-4120-8c64-0f806c623d7d)
+
+This UI can be very much helpful in tracking field, in-case of regular monitoring of a labelled moving object.
+        
