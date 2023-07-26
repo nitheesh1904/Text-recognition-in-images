@@ -1,16 +1,23 @@
 # Text-recognition-in-images
 # Overview
-This project focuses on implementing text detection using images with the help of EasyOCR, a Python library for optical character recognition. The goal is to extract text from images and provide accurate results with minimal complexity. This README provides essential information about the project, its functionalities, and how to set it up.
+This project focuses on implementing text detection using images with the help of EasyOCR, a Python library for optical character recognition. In addition to the text detection functionality, we have developed a user-friendly Graphical User Interface (GUI) using Gradio, which allows users to interact with the text detection system effortlessly.
 
 # Features
-Text detection in images: The project utilizes EasyOCR to recognize text present in images, supporting various languages.
-Easy to use: The implementation is user-friendly and straightforward, making it accessible to beginners and experienced developers alike.
+# Text detection in images: The project utilizes EasyOCR to recognize text present in images, supporting various languages.
+Easy-to-use GUI: The Gradio UI provides a simple and intuitive interface for users to upload images, perform text detection, and view the results.
 Fast and accurate: EasyOCR is known for its speed and accuracy, allowing quick and reliable text detection.
 Prerequisites
 Before running the project, ensure you have the following dependencies installed:
 
 Python (version 3.6 or higher)
-
 EasyOCR library (pip install easyocr)
-
 OpenCV library (pip install opencv-python)
+Gradio library (pip install gradio)
+
+# Gradio UI Screenshots
+Include here the screenshots of the Gradio UI that you want to attach to the README. Describe the functionalities and features available in the UI, such as:
+
+The option to upload an image for text detection.
+The ability to choose the language for text recognition.
+Displaying the detected text and their confidence levels.
+A button to initiate text detection and view the results.
