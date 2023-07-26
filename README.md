@@ -10,5 +10,7 @@ Prerequisites
 Before running the project, ensure you have the following dependencies installed:
 
 Python (version 3.6 or higher)
+
 EasyOCR library (pip install easyocr)
+
 OpenCV library (pip install opencv-python)
