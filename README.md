@@ -3,10 +3,13 @@
 This project focuses on implementing text detection using images with the help of EasyOCR, a Python library for optical character recognition. In addition to the text detection functionality, we have developed a user-friendly Graphical User Interface (GUI) using Gradio, which allows users to interact with the text detection system effortlessly.
 
 # Features
-# Text detection in images: The project utilizes EasyOCR to recognize text present in images, supporting various languages.
-Easy-to-use GUI: The Gradio UI provides a simple and intuitive interface for users to upload images, perform text detection, and view the results.
-Fast and accurate: EasyOCR is known for its speed and accuracy, allowing quick and reliable text detection.
-Prerequisites
+# Text detection in images:
+    The project utilizes EasyOCR to recognize text present in images, supporting various languages.
+# Easy-to-use GUI: 
+    The Gradio UI provides a simple and intuitive interface for users to upload images, perform text detection, and view the results.
+# Fast and accurate:
+    EasyOCR is known for its speed and accuracy, allowing quick and reliable text detection.
+# Prerequisites
 Before running the project, ensure you have the following dependencies installed:
 
 Python (version 3.6 or higher)
